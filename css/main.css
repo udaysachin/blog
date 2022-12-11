@@ -1,0 +1,24 @@
+body {
+  margin: 0 200px;
+}
+.nav {
+  padding: 10px;
+  background-color: grey;
+}
+.hname {
+  display: inline-block;
+  margin: 0px;
+  color: rgba(3, 106, 129, 0.565);
+  text-transform: uppercase;
+  margin-right: 200px;
+}
+a {
+  text-decoration: none;
+  color: rgba(3, 106, 129, 0.565);
+  font-weight: bold;
+  margin-right: 10px;
+}
+a:hover{
+    color: blueviolet;
+    text-decoration: underline chartreuse;
+}
